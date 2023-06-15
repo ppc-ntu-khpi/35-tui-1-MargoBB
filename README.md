@@ -12,7 +12,9 @@
 Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/TUI-Lab1-Starter/tree/master/data).
 
 ---
-# Скріншоти працюючої програми
+# Результати практичної
+
+**Скріншоти працюючої програми**
 
 ![](https://github.com/ppc-ntu-khpi/35-tui-1-MargoBB/blob/master/Lab%201%20-TUI/1.png)
 ![](https://github.com/ppc-ntu-khpi/35-tui-1-MargoBB/blob/master/Lab%201%20-TUI/2.png)
